@@ -14,10 +14,7 @@ namespace Zadatak_1
             Console.WriteLine("Upišite niz znakova: ");
             niz = Console.ReadLine();
             Console.WriteLine(niz.Replace(" ", "_"));
-
             Console.ReadKey();
-        
-
-    }
-    }
+}
+}
 }
